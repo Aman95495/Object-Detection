@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Weight files
+weights/
+
+# Log files
+*.log
+
+
+# Temporary files
+*.tmp
+*.temp
